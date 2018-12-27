@@ -1,0 +1,9 @@
+{
+  "name": "redux-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  }
+}
